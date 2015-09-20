@@ -15,6 +15,7 @@ I'm a current computer science student who is going to go through (the hell that
 - [Rotate a 2-D Array](http://blogs.msdn.com/b/oldnewthing/archive/2008/09/02/8918130.aspx)
 - [Interpret String of Digits as Characters](http://www.geeksforgeeks.org/find-all-possible-interpretations/)
 - [Reverse Words in String](http://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
+- [First Occurrence of a Number in a Sorted Array](http://comproguide.blogspot.com/2013/06/finding-first-occurence-of-number-in.html)
 
 More to come as I work through them.
 
