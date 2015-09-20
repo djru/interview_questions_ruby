@@ -16,6 +16,7 @@ I'm a current computer science student who is going to go through (the hell that
 - [Interpret String of Digits as Characters](http://www.geeksforgeeks.org/find-all-possible-interpretations/)
 - [Reverse Words in String](http://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
 - [First Occurrence of a Number in a Sorted Array](http://comproguide.blogspot.com/2013/06/finding-first-occurence-of-number-in.html)
+- [Print Every Permutation of a String](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 
 More to come as I work through them.
 
