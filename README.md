@@ -11,9 +11,9 @@ I'm a current computer science student who is going to going through internship 
   - Ruby is highly expressive and easy to read. This makes it easy to reason about things.
 
 ## Questions
-[Reverse a Linked List](http://www.programmerinterview.com/index.php/data-structures/reverse-a-linked-list/)
-[Rotate a 2-D Array](http://blogs.msdn.com/b/oldnewthing/archive/2008/09/02/8918130.aspx)
-[Interpret String of Digits as Characters](http://www.geeksforgeeks.org/find-all-possible-interpretations/)
+- [Reverse a Linked List](http://www.programmerinterview.com/index.php/data-structures/reverse-a-linked-list/)
+- [Rotate a 2-D Array](http://blogs.msdn.com/b/oldnewthing/archive/2008/09/02/8918130.aspx)
+- [Interpret String of Digits as Characters](http://www.geeksforgeeks.org/find-all-possible-interpretations/)
 
 More to come as I work through them.
 
