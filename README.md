@@ -4,7 +4,7 @@
 These are solutions to several common questions asked in coding interviews, written in ruby.
 
 ## Why?
-I'm a current computer science student who is going to going through internship recruitment soon. I've been reading Cracking the Coding Interview and it's ilk, and been working through a lot of question like these. I figured writing them and putting them out publically would be a way to help me work through more problems and give visitors nice solutions to common interview question.
+I'm a current computer science student who is going to go through (the hell that is) internship recruitment soon. I've been reading Cracking the Coding Interview and it's ilk, and been working through a lot of question like these. I figured writing them and putting them out publically would be a way to help me work through more problems and give visitors nice solutions to common interview question.
 
 ## Why Ruby?
   - I've been writing ruby for a while so I'm farmiliar with it.
